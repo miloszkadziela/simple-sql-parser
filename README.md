@@ -17,7 +17,10 @@ A mock database `Players.csv` is included
 - Java SDK
 
 ## How to set up:
-Run using IntelliJ
+Run using IntelliJ or
+1. Open terminal
+2. Execute `javac -cp /home/user/Documents/src/opencsv-3.9.jar *.java`
+3. Execute `java -cp .:/home/user/Documents/src/opencsv-3.9.jar Main`
 
 ## Future improvements:
 - Add more queries
